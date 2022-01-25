@@ -21,6 +21,16 @@
 <h3>🌍 Languages<h3>
 
 <hr width = "500vw">
-
-![Snowflake107](https://github-readme-stats.vercel.app/api/top-langs?username=VinIsDev&show_icons=true&theme=tokyonight&layout=compact)
+   <p align="center">
+      <img src="https://github.com/YisusOnDev/YisusOnDev/blob/8659315da5ae39e2635e7d2c1e2a6317163e3c72/lua.svg" />
+      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/java.svg" />
+      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/html.svg" />
+      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/css3.svg" />
+      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/js.svg" />
+      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/csharp_dotnet.svg" />
+      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/dart_colour.svg" />
+      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/flutter.svg" />
+      <img src="https://github.com/YisusOnDev/YisusOnDev/blob/main/typescript.svg" />
+      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/angular.svg" />
+   </p>  
 </div>
