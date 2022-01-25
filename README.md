@@ -31,3 +31,11 @@
       <img src="https://github.com/YisusOnDev/YisusOnDev/blob/main/typescript.svg" />
    </p>  
 </div>
+  
+ <h3>🔧 Tools<h3>
+  
+<hr width = "500vw">
+   <p align="center">
+      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/visualstudio.svg" />
+      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/visualstudio_code.svg" />
+   </p>
