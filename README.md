@@ -2,7 +2,7 @@
 
 <hr width = "300vw">
 
-<h3 align="center">Hello, I'm Vin</h3>
+<h3 align="center">Hello, I'm Ginés</h3>
   
 <hr width = "300vw">
 
